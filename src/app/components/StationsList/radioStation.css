@@ -1,0 +1,56 @@
+button{
+    border: none;
+    background: none;
+    color: #a2abbd;
+    font-size: 18px;
+    width: 350px;
+    cursor: pointer;
+    border: none;
+    outline: none;
+}
+.btn{
+    text-align: left;
+    padding: 0 34px ;
+}
+hr{
+    border: 1px solid #a2abbd5e;
+    margin: 0 34px ;
+}
+.hr{
+    border: 1px solid #a2abbd5e;
+}
+.fm{
+    float: right;
+}
+.list{
+    padding: 30px;
+    overflow-y: hidden;
+	max-height: 500px; 
+	transition-property: all;
+	transition-duration: .5s;
+	transition-timing-function: cubic-bezier(0, 1, 0.5, 1);
+}
+.list.closed {
+	max-height: 0;
+}
+.list.opened {
+	max-height: 500px;
+}
+.minus{
+    width: 30px;
+    float: left;
+    padding-top: 60px;
+}
+.plus{
+    width: 30px;
+    float: right;
+    padding-top: 60px;
+}
+.img{
+    border-radius: 50%;
+    border: #a2abbd solid 2px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}

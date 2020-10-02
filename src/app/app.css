@@ -1,0 +1,17 @@
+body{
+    background: #1b1b24;
+}
+.card {
+    background-color: #2f2f3a;
+    width: 350px;
+    margin: auto;
+    font-family: arial;
+    border-radius: 30px;
+    max-height: 500px;
+  }
+.fix{
+    width: 350px;
+    height: 275px;
+    margin-right: 5px;
+    overflow: auto;
+}

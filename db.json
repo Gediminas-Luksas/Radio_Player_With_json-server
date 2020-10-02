@@ -1,0 +1,9 @@
+{
+    "stations": [
+        {"id": 1, "station": "Putin FM", "frequency": "66,6", "isPlaying": false},
+        {"id": 2, "station": "Dribbble FM", "frequency": "101,2", "isPlaying": false},
+        {"id": 3, "station": "Doge FM", "frequency": "99,4", "isPlaying": false},
+        {"id": 4, "station": "Ballads FM", "frequency": "87,1", "isPlaying": false},
+        {"id": 5, "station": "Maximum FM", "frequency": "142,2", "isPlaying": false}
+    ]
+}
